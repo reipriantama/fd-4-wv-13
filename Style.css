@@ -1,0 +1,56 @@
+#header{
+    
+    background: #472F92;
+    border-radius: 10px;
+    color: white;
+    margin: 20px;
+    padding: 30px;
+    position: sticky;
+    top: 0;
+    
+}
+
+.content-1{
+    border-radius: 10px;
+    border: solid grey 2px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.7);
+    color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+    padding: 20px;
+    
+}
+
+.content-2{
+    border-radius: 10px;
+    border: solid grey 2px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.7);
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    
+    
+}
+
+.content-3{
+    border-radius: 10px;
+    border: solid grey 2px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.7);
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    
+    
+}
+
+.button-click{
+    background: #472F92;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    padding: 8px 12px;
+    
+    
+}
